@@ -23,4 +23,5 @@ export default function (Vue, { appOptions, head }) {
   
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout)
+  
 }

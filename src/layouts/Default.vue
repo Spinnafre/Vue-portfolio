@@ -69,14 +69,25 @@ query {
 .v-application--wrap {
   flex-direction: row;
   scroll-behavior: smooth;
+  background-color:#e9e9e9;
 }
 
-html{
+
+html {
   scroll-behavior: smooth;
+}
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  
 }
 .v-main {
   flex: 1 0;
   margin-left: 240px;
+}
+.col h1 {
+  font-size: 38px;
+  color: #222121;
+  margin-left: 50px;
 }
 </style>
 
