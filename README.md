@@ -1,3 +1,17 @@
+<p align="center">
+  <img alt="BeTheHero" src="https://github.com/Spinnafre/SAVE-LIVE/blob/master/saveLifeAPP.png" width="80%">
+</p>
+
+## :card_index:Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+
+- [Node.js](https://nodejs.org/en/)
+- [Vue Cli](https://cli.vuejs.org/)
+- [Vuetify](https://vuetifyjs.com/en/)
+- [Gridsome](https://gridsome.org/)
+
 # Default starter for Gridsome
 
 This is the project you get when you run `gridsome create new-project`.
@@ -16,10 +30,3 @@ This is the project you get when you run `gridsome create new-project`.
 
 
 
-##Colors
-
-Light white= F7EBEC 
-Light-Orange- ff877f 
-Orange- FE5F55 
-light-dark- 493548 
-dark- 291528 
